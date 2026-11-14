@@ -91,6 +91,7 @@ jobs:
         run: |
           Rscript R/build_artifacts.R
           Rscript R/build_decision_tree.R
+          python3 scripts/check-artifacts.py
           python3 scripts/check-source-refs.py
 
       - name: Render site

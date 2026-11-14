@@ -1,48 +1,48 @@
-name: Rebuild artifacts
+name: Verify generated artifacts
 on:
+  pull_request:
   push:
     branches: [main]
-    paths:
-      - 'tutorials/**/*.qmd'
-      - 'shiny/tutorials/**/*.qmd'
-      - 'R/build_decision_tree.R'
-      - 'R/build_artifacts.R'
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   rebuild:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: false
 
-      - uses: r-lib/actions/setup-r@v2
+      - uses: r-lib/actions/setup-r@f9a764fea8d5c63df6ef9a5c7795bf7deb5d7e05 # v2
         with:
+          r-version: '4.6.1'
           use-public-rspm: true
+          install-quarto: false
+          install-pandoc: false
 
-      - uses: r-lib/actions/setup-r-dependencies@v2
+      - uses: r-lib/actions/setup-r-dependencies@f9a764fea8d5c63df6ef9a5c7795bf7deb5d7e05 # v2
         with:
           packages: |
             any::yaml
             any::jsonlite
+          dependencies: '"hard"'
 
-      - name: Rebuild graph.json, tutorials.csv, cooccurrence.csv
+      - name: Rebuild graph and tutorial inventories
         run: Rscript R/build_artifacts.R
 
-      - name: Rebuild decision-tree.json
+      - name: Rebuild decision tree
         run: Rscript R/build_decision_tree.R
 
-      - name: Commit updated artifacts
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add artifacts/
-          if git diff --staged --quiet; then
-            echo "No artifact changes"
-          else
-            git commit -m "chore: rebuild artifacts from tutorial frontmatter"
-            git push
-          fi
+      - name: Verify generated artifacts match reviewed sources
+        run: python3 scripts/check-artifacts.py
+
+      - name: Retain generated artifacts for review
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
+        with:
+          name: generated-artifacts
+          path: artifacts/
+          if-no-files-found: error

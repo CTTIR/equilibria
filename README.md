@@ -59,6 +59,16 @@ observed checks, scientific limits and remaining publication work. Build and
 publish workflows run the same source, algorithm and rendered-navigation gates.
 No hosted CI or deployment is implied by local results.
 
+## Updating generated artifacts
+
+After editing tutorial frontmatter, topic metadata, or either artifact builder,
+run `Rscript R/build_artifacts.R` and `Rscript R/build_decision_tree.R`.
+Review and commit the resulting `artifacts/` changes together with their sources.
+`python3 scripts/check-artifacts.py` verifies the committed result after rebuilding.
+Pull requests and main pushes regenerate these files in a read-only workflow;
+any difference fails the gate and the generated files are retained for review.
+The workflow never commits to main. Site publication also requires current artifacts.
+
 ## License
 
 The prose of these materials is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); all code (scripts, chunks, examples) is licensed under the [MIT License](LICENSE-CODE.md).
