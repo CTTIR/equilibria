@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Line plot showing declining average contributions over rounds in a public goods experiment with and without punishment"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/experimental-economics/voluntary-contribution-mechanism/
+  url: https://cttir.github.io/equilibria/tutorials/experimental-economics/voluntary-contribution-mechanism/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

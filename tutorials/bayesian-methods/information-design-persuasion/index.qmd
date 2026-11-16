@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Concavification plot showing the sender's value function and its concave closure for Bayesian persuasion"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/bayesian-methods/information-design-persuasion/
+  url: https://cttir.github.io/equilibria/tutorials/bayesian-methods/information-design-persuasion/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

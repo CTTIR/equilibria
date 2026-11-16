@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Scatter plot of GDP vs trade cooperation rates across simulated country pairs"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/public-apis-and-datasets/world-bank-development-games/
+  url: https://cttir.github.io/equilibria/tutorials/public-apis-and-datasets/world-bank-development-games/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

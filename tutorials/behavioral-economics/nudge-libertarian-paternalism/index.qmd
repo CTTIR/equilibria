@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bar chart comparing opt-in participation rates under different default nudge designs for organ donation and retirement savings"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/behavioral-economics/nudge-libertarian-paternalism/
+  url: https://cttir.github.io/equilibria/tutorials/behavioral-economics/nudge-libertarian-paternalism/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Pareto frontier plot showing the trade-off between platform accuracy and group fairness at Nash equilibrium, with regulation intensity varying along the frontier, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/ethics-applications/algorithmic-fairness-games/
+  url: https://cttir.github.io/equilibria/tutorials/ethics-applications/algorithmic-fairness-games/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

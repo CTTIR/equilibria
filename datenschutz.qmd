@@ -16,7 +16,7 @@ Albert-Einstein-Straße 47\
 02977 Hoyerswerda\
 Deutschland
 
-E-Mail: [rheller.dev@outlook.com](mailto:rheller.dev@outlook.com)
+E-Mail: [cttir.dev@outlook.com](mailto:cttir.dev@outlook.com)
 
 ## 2. Hosting (GitHub Pages)
 

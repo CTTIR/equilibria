@@ -8,7 +8,7 @@ entries are marked as planned. Selected tutorials provide interactive figures;
 executable examples are teaching demonstrations, not validated scientific or
 operational tools.
 
-**URL:** <https://r-heller.github.io/equilibria/>
+**URL:** <https://cttir.github.io/equilibria/>
 
 ## Build and use locally
 

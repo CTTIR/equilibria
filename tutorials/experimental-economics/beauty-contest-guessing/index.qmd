@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Histogram of guesses in a p-beauty contest showing clusters at level-0, level-1, and level-2 thinking"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/experimental-economics/beauty-contest-guessing/
+  url: https://cttir.github.io/equilibria/tutorials/experimental-economics/beauty-contest-guessing/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

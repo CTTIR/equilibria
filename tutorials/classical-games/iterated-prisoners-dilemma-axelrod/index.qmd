@@ -19,7 +19,7 @@ image: thumbnail.png
 image-alt: "Bar chart of tournament scores showing Tit-for-Tat winning Axelrod's tournament"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/classical-games/iterated-prisoners-dilemma-axelrod/
+  url: https://cttir.github.io/equilibria/tutorials/classical-games/iterated-prisoners-dilemma-axelrod/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

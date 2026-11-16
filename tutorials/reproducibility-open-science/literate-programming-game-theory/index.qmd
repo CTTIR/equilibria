@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bar chart comparing reproducibility scores across different documentation practices for game theory research projects, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/reproducibility-open-science/literate-programming-game-theory/
+  url: https://cttir.github.io/equilibria/tutorials/reproducibility-open-science/literate-programming-game-theory/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

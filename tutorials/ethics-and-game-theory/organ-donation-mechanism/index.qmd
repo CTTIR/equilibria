@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Network graph of patient-donor pairs with compatible exchange cycles highlighted, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/ethics-and-game-theory/organ-donation-mechanism/
+  url: https://cttir.github.io/equilibria/tutorials/ethics-and-game-theory/organ-donation-mechanism/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Diagram showing Docker container layers for a reproducible game theory analysis pipeline with R and renv"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/reproducibility-open-science/docker-reproducible-game-analysis/
+  url: https://cttir.github.io/equilibria/tutorials/reproducibility-open-science/docker-reproducible-game-analysis/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

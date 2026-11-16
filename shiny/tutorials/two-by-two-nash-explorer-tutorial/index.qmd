@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Screenshot of the 2×2 Nash Equilibrium Explorer Shiny app"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/shiny/tutorials/two-by-two-nash-explorer-tutorial/
+  url: https://cttir.github.io/equilibria/shiny/tutorials/two-by-two-nash-explorer-tutorial/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true
@@ -62,7 +62,7 @@ inequalities restrict the opponent's probability; a player who mixes must be
 indifferent. This also covers degenerate games, whose equilibria can form
 intervals or a whole rectangle, not just isolated points. `p_range` and
 `q_range` describe each complete family; `p` and `q` are representative values.
-The app and this tutorial use the same [solver source](https://github.com/r-heller/equilibria/blob/main/shiny-apps/01-two-by-two-nash-explorer/solver.R).
+The app and this tutorial use the same [solver source](https://github.com/CTTIR/equilibria/blob/main/shiny-apps/01-two-by-two-nash-explorer/solver.R).
 Payoffs must be finite. Calculations use a relative numerical tolerance of
 `1e-10`, so near-indifference at that scale is treated as indifference.
 

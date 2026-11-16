@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bar chart showing test pass rates across different equilibrium solver test categories using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/r-package-development/unit-testing-game-solvers/
+  url: https://cttir.github.io/equilibria/tutorials/r-package-development/unit-testing-game-solvers/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

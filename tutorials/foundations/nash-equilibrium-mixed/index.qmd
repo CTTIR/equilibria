@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Best-response correspondences crossing to form the mixed-strategy Nash equilibrium"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/foundations/nash-equilibrium-mixed/
+  url: https://cttir.github.io/equilibria/tutorials/foundations/nash-equilibrium-mixed/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true
@@ -340,7 +340,7 @@ The Battle of the Sexes has three Nash equilibria: two pure — (T, L) and (B, R
 ::: {.app-embed}
 <iframe src="https://r-heller.shinyapps.io/two-by-two-nash-explorer/" width="100%" height="600" frameborder="0"></iframe>
 
-[Open app in new tab](https://r-heller.shinyapps.io/two-by-two-nash-explorer/) · [View source on GitHub](https://github.com/r-heller/equilibria/tree/main/shiny-apps/01-two-by-two-nash-explorer/)
+[Open app in new tab](https://r-heller.shinyapps.io/two-by-two-nash-explorer/) · [View source on GitHub](https://github.com/CTTIR/equilibria/tree/main/shiny-apps/01-two-by-two-nash-explorer/)
 :::
 
 

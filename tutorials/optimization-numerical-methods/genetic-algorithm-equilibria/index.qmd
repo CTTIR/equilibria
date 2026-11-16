@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Line plot showing convergence of genetic algorithm fitness over generations toward Nash equilibrium using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/optimization-numerical-methods/genetic-algorithm-equilibria/
+  url: https://cttir.github.io/equilibria/tutorials/optimization-numerical-methods/genetic-algorithm-equilibria/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

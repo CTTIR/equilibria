@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Comparison of exponential and hyperbolic discount functions showing the present bias gap"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/behavioral-economics/hyperbolic-discounting-games/
+  url: https://cttir.github.io/equilibria/tutorials/behavioral-economics/hyperbolic-discounting-games/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

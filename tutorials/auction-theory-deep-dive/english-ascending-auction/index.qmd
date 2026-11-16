@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Simulated English auction showing price ascending with bidder dropouts at their private values, with the winner paying the second-highest value"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/auction-theory-deep-dive/english-ascending-auction/
+  url: https://cttir.github.io/equilibria/tutorials/auction-theory-deep-dive/english-ascending-auction/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

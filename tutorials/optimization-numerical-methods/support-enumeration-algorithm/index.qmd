@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Scatter plot showing the support structure and probability weights of multiple Nash equilibria found by the support enumeration algorithm"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/optimization-numerical-methods/support-enumeration-algorithm/
+  url: https://cttir.github.io/equilibria/tutorials/optimization-numerical-methods/support-enumeration-algorithm/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

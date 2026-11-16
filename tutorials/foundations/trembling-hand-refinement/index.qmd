@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Strategy probability trajectories converging to a trembling hand perfect equilibrium as the tremble parameter epsilon approaches zero"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/foundations/trembling-hand-refinement/
+  url: https://cttir.github.io/equilibria/tutorials/foundations/trembling-hand-refinement/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

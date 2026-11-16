@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Dashboard layout showing game theory payoff matrices and equilibrium regions with interactive controls"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/visualization-and-communication/dashboard-flexdashboard-games/
+  url: https://cttir.github.io/equilibria/tutorials/visualization-and-communication/dashboard-flexdashboard-games/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

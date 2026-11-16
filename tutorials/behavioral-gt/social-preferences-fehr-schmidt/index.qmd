@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Utility curves under Fehr-Schmidt preferences showing the kink at equal payoffs with steeper slope for disadvantageous inequality"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/behavioral-gt/social-preferences-fehr-schmidt/
+  url: https://cttir.github.io/equilibria/tutorials/behavioral-gt/social-preferences-fehr-schmidt/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

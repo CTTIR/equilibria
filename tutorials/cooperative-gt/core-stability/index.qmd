@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Triangular simplex showing the core region for a three-player cooperative game"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/cooperative-gt/core-stability/
+  url: https://cttir.github.io/equilibria/tutorials/cooperative-gt/core-stability/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

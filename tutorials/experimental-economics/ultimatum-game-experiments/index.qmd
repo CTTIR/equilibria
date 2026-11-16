@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Distribution of ultimatum game offers showing the modal offer at 40-50% of the pie, far above the subgame-perfect prediction of near-zero"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/experimental-economics/ultimatum-game-experiments/
+  url: https://cttir.github.io/equilibria/tutorials/experimental-economics/ultimatum-game-experiments/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

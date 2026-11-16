@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bid distribution comparison between first-price and second-price sealed-bid auctions"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/mechanism-design/vickrey-second-price-auction/
+  url: https://cttir.github.io/equilibria/tutorials/mechanism-design/vickrey-second-price-auction/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

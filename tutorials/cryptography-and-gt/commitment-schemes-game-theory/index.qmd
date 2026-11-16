@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Comparison of Nash equilibrium and Stackelberg equilibrium payoffs in a two-player game with and without commitment, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/cryptography-and-gt/commitment-schemes-game-theory/
+  url: https://cttir.github.io/equilibria/tutorials/cryptography-and-gt/commitment-schemes-game-theory/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

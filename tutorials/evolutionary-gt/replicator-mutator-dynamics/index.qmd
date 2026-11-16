@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Time series comparing replicator dynamics with and without mutation in Rock-Paper-Scissors, showing how mutation stabilises cyclic orbits"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/evolutionary-gt/replicator-mutator-dynamics/
+  url: https://cttir.github.io/equilibria/tutorials/evolutionary-gt/replicator-mutator-dynamics/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Comparison of adoption curves on scale-free versus Erdos-Renyi networks showing faster convergence when hubs are targeted"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/network-science/power-law-networks-strategic/
+  url: https://cttir.github.io/equilibria/tutorials/network-science/power-law-networks-strategic/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

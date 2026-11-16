@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Threshold strategy diagram showing attack probability as a function of private signal in a global game"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/bayesian-methods/global-games-coordination/
+  url: https://cttir.github.io/equilibria/tutorials/bayesian-methods/global-games-coordination/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

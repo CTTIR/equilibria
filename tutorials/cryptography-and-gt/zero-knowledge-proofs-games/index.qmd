@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Line plot showing the soundness error probability decreasing exponentially with the number of protocol rounds in a zero-knowledge proof verification game, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/cryptography-and-gt/zero-knowledge-proofs-games/
+  url: https://cttir.github.io/equilibria/tutorials/cryptography-and-gt/zero-knowledge-proofs-games/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

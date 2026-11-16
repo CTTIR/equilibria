@@ -1,5 +1,5 @@
 # 2×2 Nash Equilibrium Explorer — Shiny App
-# Part of #equilibria (https://r-heller.github.io/equilibria/)
+# Part of #equilibria (https://cttir.github.io/equilibria/)
 # License: CC BY-SA 4.0
 
 library(shiny)
@@ -83,7 +83,7 @@ ui <- fluidPage(
 
   hr(),
   p(style = "color: grey; font-size: 0.85em;",
-    "Part of ", tags$a(href = "https://r-heller.github.io/equilibria/", "#equilibria"),
+    "Part of ", tags$a(href = "https://cttir.github.io/equilibria/", "#equilibria"),
     " — Game Theory, Decision-Making & Strategic Interaction. ",
     "License: CC BY-SA 4.0.")
 )

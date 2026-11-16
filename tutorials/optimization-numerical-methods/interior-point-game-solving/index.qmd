@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Convergence plot showing the central path of a barrier method spiralling inward toward the optimal solution of a zero-sum game LP"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/optimization-numerical-methods/interior-point-game-solving/
+  url: https://cttir.github.io/equilibria/tutorials/optimization-numerical-methods/interior-point-game-solving/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

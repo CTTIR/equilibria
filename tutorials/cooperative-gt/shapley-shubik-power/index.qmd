@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Bar chart comparing voting weights and Shapley-Shubik power indices for UN Security Council members"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/cooperative-gt/shapley-shubik-power/
+  url: https://cttir.github.io/equilibria/tutorials/cooperative-gt/shapley-shubik-power/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

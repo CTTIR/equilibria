@@ -16,7 +16,7 @@ image: thumbnail.png
 image-alt: "Line plot comparing expected profits of naive bidders versus winner's-curse-adjusted bidders across different numbers of competitors in a common-value auction"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/bayesian-methods/auction-common-value-estimation/
+  url: https://cttir.github.io/equilibria/tutorials/bayesian-methods/auction-common-value-estimation/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

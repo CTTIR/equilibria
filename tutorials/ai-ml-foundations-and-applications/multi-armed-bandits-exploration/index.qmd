@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Cumulative regret curves for epsilon-greedy, UCB1, and Thompson sampling algorithms over 5000 rounds, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/ai-ml-foundations-and-applications/multi-armed-bandits-exploration/
+  url: https://cttir.github.io/equilibria/tutorials/ai-ml-foundations-and-applications/multi-armed-bandits-exploration/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -16,7 +16,7 @@ image: thumbnail.png
 image-alt: "Network graph with nodes coloured by eigenvector centrality revealing the power structure of a strategic network"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/network-science/centrality-measures-game-theory/
+  url: https://cttir.github.io/equilibria/tutorials/network-science/centrality-measures-game-theory/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -32,7 +32,7 @@ image-alt: "Pareto frontier showing the trade-off between overall accuracy and m
 
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/ethics-applications/algorithmic-fairness-game-theory/
+  url: https://cttir.github.io/equilibria/tutorials/ethics-applications/algorithmic-fairness-game-theory/
 
 license: "CC BY 4.0"
 

@@ -19,7 +19,7 @@ image: thumbnail.png
 image-alt: "Learning curves showing perceptron convergence on linearly separable data and failure on XOR"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/ai-ml-foundations-and-applications/perceptron-to-deep-learning-historical-r-implementation/
+  url: https://cttir.github.io/equilibria/tutorials/ai-ml-foundations-and-applications/perceptron-to-deep-learning-historical-r-implementation/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -32,7 +32,7 @@ image-alt: "Flowchart showing the reproducible workflow from renv lockfile throu
 
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/reproducibility-open-science/reproducible-game-theory-workflow/
+  url: https://cttir.github.io/equilibria/tutorials/reproducibility-open-science/reproducible-game-theory-workflow/
 
 license: "CC BY 4.0"
 

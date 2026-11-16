@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Gradient descent trajectories converging to the Nash equilibrium of a Cournot duopoly in quantity space"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/optimization-numerical-methods/gradient-descent-nash-finding/
+  url: https://cttir.github.io/equilibria/tutorials/optimization-numerical-methods/gradient-descent-nash-finding/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

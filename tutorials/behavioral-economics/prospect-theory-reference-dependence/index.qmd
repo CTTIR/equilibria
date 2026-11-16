@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Comparison of standard and prospect-theoretic value functions showing the characteristic S-shaped curve with steeper losses than gains, alongside equilibrium shifts in a coordination game, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/behavioral-economics/prospect-theory-reference-dependence/
+  url: https://cttir.github.io/equilibria/tutorials/behavioral-economics/prospect-theory-reference-dependence/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

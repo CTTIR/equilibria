@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bar chart comparing VCG payments to valuations across bidders in a combinatorial allocation"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/mechanism-design/vcg-mechanism/
+  url: https://cttir.github.io/equilibria/tutorials/mechanism-design/vcg-mechanism/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

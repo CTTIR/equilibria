@@ -31,7 +31,7 @@ image-alt: "Diagram showing the structure of a minimal game theory R package wit
 
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/r-package-development/building-game-theory-r-package/
+  url: https://cttir.github.io/equilibria/tutorials/r-package-development/building-game-theory-r-package/
 
 license: "CC BY 4.0"
 

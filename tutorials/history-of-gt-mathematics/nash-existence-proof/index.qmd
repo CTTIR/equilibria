@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Best-response correspondence mapping in a 2×2 game showing the fixed point where both players' best responses intersect at Nash equilibrium"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/history-of-gt-mathematics/nash-existence-proof/
+  url: https://cttir.github.io/equilibria/tutorials/history-of-gt-mathematics/nash-existence-proof/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

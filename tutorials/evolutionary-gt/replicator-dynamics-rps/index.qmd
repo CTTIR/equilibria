@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Phase portrait showing cyclic replicator dynamics orbits on the RPS simplex"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/evolutionary-gt/replicator-dynamics-rps/
+  url: https://cttir.github.io/equilibria/tutorials/evolutionary-gt/replicator-dynamics-rps/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

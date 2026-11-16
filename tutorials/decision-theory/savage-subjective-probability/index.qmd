@@ -16,7 +16,7 @@ image: thumbnail.png
 image-alt: "Bar chart showing subjective probabilities derived from revealed preferences over acts in a three-state decision problem"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/decision-theory/savage-subjective-probability/
+  url: https://cttir.github.io/equilibria/tutorials/decision-theory/savage-subjective-probability/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

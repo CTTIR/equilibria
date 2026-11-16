@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Line plot showing the value of information as a function of signal precision for single-agent and two-player settings"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/information-theory/value-of-information-games/
+  url: https://cttir.github.io/equilibria/tutorials/information-theory/value-of-information-games/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

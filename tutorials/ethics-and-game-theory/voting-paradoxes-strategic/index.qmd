@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Cycle diagram showing three alternatives in a Condorcet paradox with arrows indicating majority preferences forming a loop"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/ethics-and-game-theory/voting-paradoxes-strategic/
+  url: https://cttir.github.io/equilibria/tutorials/ethics-and-game-theory/voting-paradoxes-strategic/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

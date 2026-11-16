@@ -22,7 +22,7 @@ image: thumbnail.png
 image-alt: "Time series of GDP growth for major economies from World Bank WDI data"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/public-apis-and-datasets/world-bank-wdi-economic-indicators/
+  url: https://cttir.github.io/equilibria/tutorials/public-apis-and-datasets/world-bank-wdi-economic-indicators/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

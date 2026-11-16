@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Log-likelihood surface for QRE lambda parameter estimation with maximum likelihood point and confidence interval marked"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/statistical-foundations/maximum-likelihood-game-estimation/
+  url: https://cttir.github.io/equilibria/tutorials/statistical-foundations/maximum-likelihood-game-estimation/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

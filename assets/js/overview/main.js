@@ -42,7 +42,7 @@ async function bootstrap() {
   try { graph = await loadGraph(root); }
   catch (e) {
     document.getElementById("tutorial-list").textContent =
-      "Failed to load tutorial network. Reload the page or report at https://github.com/r-heller/equilibria/issues.";
+      "Failed to load tutorial network. Reload the page or report at https://github.com/CTTIR/equilibria/issues.";
     console.error(e);
     return;
   }

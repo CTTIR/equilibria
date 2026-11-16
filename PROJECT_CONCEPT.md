@@ -130,7 +130,7 @@ image: thumbnail.png
 image-alt: <string>
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/<topic>/<slug>/
+  url: https://cttir.github.io/equilibria/tutorials/<topic>/<slug>/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: <bool>

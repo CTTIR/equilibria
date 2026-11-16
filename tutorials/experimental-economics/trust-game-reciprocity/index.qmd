@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Scatter plot showing the relationship between investor transfers and trustee returns in a simulated trust game with heterogeneous reciprocity preferences"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/experimental-economics/trust-game-reciprocity/
+  url: https://cttir.github.io/equilibria/tutorials/experimental-economics/trust-game-reciprocity/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

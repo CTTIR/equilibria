@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Equilibrium bid functions for the sealed-bid war of attrition and standard all-pay auction, showing exponential versus quadratic bidding strategies"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/classical-games/war-of-attrition-sealed/
+  url: https://cttir.github.io/equilibria/tutorials/classical-games/war-of-attrition-sealed/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

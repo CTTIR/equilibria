@@ -16,7 +16,7 @@ image: thumbnail.png
 image-alt: "Comparison of star and complete network structures with utility annotations showing pairwise stability"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/network-games/network-formation-strategic/
+  url: https://cttir.github.io/equilibria/tutorials/network-games/network-formation-strategic/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Time series plot showing surge multiplier dynamics alongside rider demand and driver supply curves across a simulated day, with welfare regions highlighted using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/real-world-data-applications/uber-surge-pricing-game/
+  url: https://cttir.github.io/equilibria/tutorials/real-world-data-applications/uber-surge-pricing-game/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

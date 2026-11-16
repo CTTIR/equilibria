@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Comparison of Talmudic, proportional, and constrained equal awards solutions to bankruptcy problems"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/cooperative-gt/bankruptcy-game-talmud/
+  url: https://cttir.github.io/equilibria/tutorials/cooperative-gt/bankruptcy-game-talmud/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

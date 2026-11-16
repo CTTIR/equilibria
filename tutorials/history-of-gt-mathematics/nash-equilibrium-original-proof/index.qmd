@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Plot of best-response correspondences for a 2x2 game intersecting at the Nash equilibrium, with Brouwer fixed-point illustration inset"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/history-of-gt-mathematics/nash-equilibrium-original-proof/
+  url: https://cttir.github.io/equilibria/tutorials/history-of-gt-mathematics/nash-equilibrium-original-proof/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

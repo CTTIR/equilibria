@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bootstrap distribution of Nash equilibrium mixing probabilities with confidence interval bands"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/statistical-foundations/bootstrap-methods-game-theory/
+  url: https://cttir.github.io/equilibria/tutorials/statistical-foundations/bootstrap-methods-game-theory/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

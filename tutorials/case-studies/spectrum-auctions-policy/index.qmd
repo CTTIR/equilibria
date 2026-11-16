@@ -16,7 +16,7 @@ image: thumbnail.png
 image-alt: "Grouped bar chart comparing revenue, efficiency, and market concentration outcomes under simultaneous ascending and combinatorial clock auction formats with and without set-aside policies"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/case-studies/spectrum-auctions-policy/
+  url: https://cttir.github.io/equilibria/tutorials/case-studies/spectrum-auctions-policy/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Density plot comparing the true data distribution with the generator's learned distribution across training epochs using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/ml-and-gt/gan-game-theoretic-training/
+  url: https://cttir.github.io/equilibria/tutorials/ml-and-gt/gan-game-theoretic-training/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

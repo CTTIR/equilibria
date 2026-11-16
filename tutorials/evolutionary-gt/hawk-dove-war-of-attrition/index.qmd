@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Expected contest duration and payoffs in the war of attrition as functions of resource value"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/evolutionary-gt/hawk-dove-war-of-attrition/
+  url: https://cttir.github.io/equilibria/tutorials/evolutionary-gt/hawk-dove-war-of-attrition/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

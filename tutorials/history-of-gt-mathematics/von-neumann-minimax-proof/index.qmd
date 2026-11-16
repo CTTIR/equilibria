@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Heatmap of a zero-sum payoff matrix with the minimax saddle point highlighted, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/history-of-gt-mathematics/von-neumann-minimax-proof/
+  url: https://cttir.github.io/equilibria/tutorials/history-of-gt-mathematics/von-neumann-minimax-proof/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

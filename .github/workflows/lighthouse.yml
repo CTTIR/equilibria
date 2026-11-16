@@ -17,9 +17,9 @@ jobs:
         uses: treosh/lighthouse-ci-action@v12
         with:
           urls: |
-            https://r-heller.github.io/equilibria/
-            https://r-heller.github.io/equilibria/overview.html
-            https://r-heller.github.io/equilibria/tutorials/foundations/nash-equilibrium-mixed/
+            https://cttir.github.io/equilibria/
+            https://cttir.github.io/equilibria/overview.html
+            https://cttir.github.io/equilibria/tutorials/foundations/nash-equilibrium-mixed/
           uploadArtifacts: true
           temporaryPublicStorage: true
           configPath: ./.github/lighthouse/lighthouserc.json

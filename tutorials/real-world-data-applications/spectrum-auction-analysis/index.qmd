@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bar chart comparing actual auction revenue with VCG benchmark prices across four spectrum licences"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/real-world-data-applications/spectrum-auction-analysis/
+  url: https://cttir.github.io/equilibria/tutorials/real-world-data-applications/spectrum-auction-analysis/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

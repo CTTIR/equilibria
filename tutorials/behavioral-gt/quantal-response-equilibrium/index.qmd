@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "QRE correspondence tracing from uniform play to Nash equilibrium as rationality parameter lambda increases"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/behavioral-gt/quantal-response-equilibrium/
+  url: https://cttir.github.io/equilibria/tutorials/behavioral-gt/quantal-response-equilibrium/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

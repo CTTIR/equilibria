@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bar chart of Shapley values showing fair allocation of cooperative surplus"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/cooperative-gt/shapley-value/
+  url: https://cttir.github.io/equilibria/tutorials/cooperative-gt/shapley-value/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

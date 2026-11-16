@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Posterior density plot showing the Bayesian estimate of a rationality parameter lambda from observed game play data, with prior and posterior distributions overlaid using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/statistical-foundations/bayesian-inference-game-parameters/
+  url: https://cttir.github.io/equilibria/tutorials/statistical-foundations/bayesian-inference-game-parameters/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

@@ -16,7 +16,7 @@ image: thumbnail.png
 image-alt: "Bar chart comparing Shannon entropy across different game-theoretic information structures"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/information-theory/entropy-and-strategic-information/
+  url: https://cttir.github.io/equilibria/tutorials/information-theory/entropy-and-strategic-information/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

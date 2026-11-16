@@ -32,7 +32,7 @@ image-alt: "Impulse response functions showing how a shock to one actor's strate
 
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/time-series-econometrics/strategic-interaction-var-models/
+  url: https://cttir.github.io/equilibria/tutorials/time-series-econometrics/strategic-interaction-var-models/
 
 license: "CC BY 4.0"
 

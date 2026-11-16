@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Simplex plot comparing maximum entropy and welfare-maximising correlated equilibria of a two-player game"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/information-theory/entropy-correlated-equilibrium/
+  url: https://cttir.github.io/equilibria/tutorials/information-theory/entropy-correlated-equilibrium/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

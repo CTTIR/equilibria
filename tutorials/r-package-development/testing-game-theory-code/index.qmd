@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bar chart showing test coverage across game-theoretic function categories with a test pyramid diagram"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/r-package-development/testing-game-theory-code/
+  url: https://cttir.github.io/equilibria/tutorials/r-package-development/testing-game-theory-code/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

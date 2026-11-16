@@ -17,7 +17,7 @@ image: thumbnail.png
 image-alt: "Network graph coloured by detected communities with modularity scores"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/network-science/community-detection-coalitions/
+  url: https://cttir.github.io/equilibria/tutorials/network-science/community-detection-coalitions/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

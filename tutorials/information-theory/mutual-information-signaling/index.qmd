@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Bar chart comparing mutual information across babbling, partial pooling, and separating equilibria in a signaling game, rendered using the Okabe-Ito palette."
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/information-theory/mutual-information-signaling/
+  url: https://cttir.github.io/equilibria/tutorials/information-theory/mutual-information-signaling/
 license: "CC BY-SA 4.0"
 draft: false
 has_static_fig: true

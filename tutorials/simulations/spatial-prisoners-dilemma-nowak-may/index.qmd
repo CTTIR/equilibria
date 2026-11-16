@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Lattice grid showing cooperator and defector clusters in the spatial Prisoner's Dilemma"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/simulations/spatial-prisoners-dilemma-nowak-may/
+  url: https://cttir.github.io/equilibria/tutorials/simulations/spatial-prisoners-dilemma-nowak-may/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

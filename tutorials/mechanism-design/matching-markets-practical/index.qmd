@@ -16,7 +16,7 @@ image: thumbnail.png
 image-alt: "Comparison plot of proposer-optimal and proposer-pessimal stable matchings showing rank distributions for residents matched to hospital programs"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/mechanism-design/matching-markets-practical/
+  url: https://cttir.github.io/equilibria/tutorials/mechanism-design/matching-markets-practical/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

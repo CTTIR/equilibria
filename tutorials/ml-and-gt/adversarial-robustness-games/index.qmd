@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Scatter plot comparing decision boundaries of a standard classifier and an adversarially trained classifier on a 2D dataset with adversarial perturbation arrows"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/ml-and-gt/adversarial-robustness-games/
+  url: https://cttir.github.io/equilibria/tutorials/ml-and-gt/adversarial-robustness-games/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true

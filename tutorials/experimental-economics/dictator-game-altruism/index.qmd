@@ -18,7 +18,7 @@ image: thumbnail.png
 image-alt: "Density plot comparing simulated giving distributions under warm-glow and CES altruism models with experimental data from Engel's 2011 meta-analysis"
 citation:
   type: webpage
-  url: https://r-heller.github.io/equilibria/tutorials/experimental-economics/dictator-game-altruism/
+  url: https://cttir.github.io/equilibria/tutorials/experimental-economics/dictator-game-altruism/
 license: "CC BY 4.0"
 draft: false
 has_static_fig: true
